@@ -20,7 +20,7 @@ title                    : "nm to km"
 title_separator          : "-"
 subtitle                 : "Power electronics, with Semiconductors and Computer Science "
 name                     : "Inhwi Hwang"
-description              : "I am a power electronics engineer, Inhwi Hwang"
+description              : "I am a power electronics engineer, Inhwi Hwang. Researcher in SNU SEPRI."
 url                      : "https://inhwihwang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Inhwi Hwang"
   avatar           : "/assets/images/KakaoTalk_20220222_231250504.jpg"
-  bio              : "I am a well-rounded engineer, who keeps growing."
+  bio              : "I am a well-rounded engineer, who keeps growing toward the accomplished."
   location         : "Seoul, Korea"
   email            : snuhwi@snu.ac.kr
   links:
