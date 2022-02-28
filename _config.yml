@@ -15,9 +15,9 @@
 minimal_mistakes_skin    : "contrast" # "air", "default", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "nm to km"
-title_separator          : "-"
+locale                   : "ko-KR"
+title                    : "nano to kilo"
+title_separator          : "|"
 subtitle                 : "Power electronics, with Semiconductors and Computer Science "
 name                     : "Inhwi Hwang"
 description              : "I am a power electronics engineer, Inhwi Hwang. Researcher in SNU SEPRI."
