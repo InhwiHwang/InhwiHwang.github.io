@@ -20,8 +20,8 @@
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
     opacity: 0.85;
-    -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
 
     &:hover {
       opacity: 1;
@@ -134,7 +134,7 @@
   }
 
   img {
-    max-width: 200px;
+    max-width: 125px;
     border-radius: 10%;
 
     @include breakpoint($large) {
