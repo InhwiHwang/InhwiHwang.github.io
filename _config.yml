@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Inhwi Hwang"
   avatar           : "/assets/images/mypic.jpg"
-  bio              : "I am a well-rounded engineer, who keeps growing toward the accomplished."
+  bio              : "I will be a well-rounded engineer, who keeps growing toward the accomplished."
   location         : "Seoul, Korea"
   email            : snuhwi@snu.ac.kr
   links:
@@ -124,7 +124,7 @@ author:
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/inhwihwang"
     - label: "Google scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fad fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=ecvWLdYAAAAJ&hl=ko"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
