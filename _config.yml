@@ -114,18 +114,21 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://inhwihwang.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100009816971312"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       url: "https://www.facebook.com/profile.php?id=100009816971312"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/inhwihwang"
+    - label: "Google scholar"
+      icon: "fa-solid fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=ecvWLdYAAAAJ&hl=ko"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UC7As7hYURIB0LGfpPYorpGQ"
+      url: "https://www.youtube.com/channel/UC7As7hYURIB0LGfpPYorpGQ"      
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/inhwi-hwang-6a040920a/"
@@ -300,5 +303,5 @@ defaults:
       comments: true
       share: true
       related: true
-      show_date: true
+      show_date: false
 date_format: "%Y-%m-%d"
