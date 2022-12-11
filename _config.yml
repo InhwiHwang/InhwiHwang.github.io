@@ -124,7 +124,7 @@ author:
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/inhwihwang"
     - label: "Google scholar"
-      icon: "fa-solid fa-graduation-cap"
+      icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=ecvWLdYAAAAJ&hl=ko"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
@@ -299,7 +299,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
