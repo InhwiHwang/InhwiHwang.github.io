@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "default", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nano2Kilo"
+title                    : "Future Power Electronics: From Nanometer To Kilometer"
 title_separator          : "|"
-subtitle                 : "Power electronics with new materials and computer science"
+subtitle                 : "Inhwi Hwang's Blog"
 name                     : "Inhwi Hwang"
-description              : "I am a power electronics engineer, Inhwi Hwang. Researcher in Seoul National University"
+description              : "Ph.D. student at University of Michigan - Ann Arbor"
 url                      : "https://inhwihwang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # the subpath of your site, e.g. "/blog"
