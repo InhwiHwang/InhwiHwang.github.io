@@ -106,11 +106,11 @@ author:
   avatar           : "/assets/images/mypic.jpg"
   bio              : "Ph.D. student at University of Michigan - Ann Arbor"
   location         : "Seoul, South Korea"
-  email            : snuhwi@snu.ac.kr
+  email            : inhwi@umich.edu
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "snuhwi@snu.ac.kr"
+    #   url: "inhwi@umich.edu"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://inhwihwang.github.io"
